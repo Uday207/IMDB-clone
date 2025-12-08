@@ -10,6 +10,7 @@ import MovieDetail from './Pages/MovieDetail';
 // import MovieList from './Components/MovieList';
 
 function App() {
+  console.log(" This is my new project module.");
   return (
     <div className='app'>
       <Router>
